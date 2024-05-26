@@ -67,7 +67,7 @@ e_shop/
 
 Add the following dependencies to your `pubspec.yaml` file:
 
-```yaml
+### yaml
 dependencies:
   flutter:
     sdk: flutter
@@ -77,4 +77,20 @@ dependencies:
   provider: ^6.0.1
   encrypt: ^5.0.1
 
+
+
+## Git
+
+git clone https://github.com/GhassenDhif7/e_shop
+
+cd e_shop
+
+flutter pub get
+
+flutter run
+
+email: Ghassen@gmail.com
+password: 12345678
+or 
+register then login
 
